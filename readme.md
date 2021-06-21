@@ -2,7 +2,7 @@
 # CardRunner API
 
 ## Description
-Works alongside CardRunner App.
+Works alongside [CardRunner App](https://github.com/ThisIsYoav/card-runner-app)
 
 Uses Node.JS with Express.JS for communication with the client;
 
